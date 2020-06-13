@@ -86,8 +86,8 @@ class C3DModel(object):
 
             # Fully connected layer
             flatten = tf.reshape(pool5, shape=(self._config.batch_size, -1))
-            fc1 = tf.layers.dense(inputs=flatten, units=1024, activation=tf.nn.relu)
-            fc2 = tf.layers.dense(inputs=fc1, units=1024, activation=tf.nn.relu)
+            fc1 = tf.layers.dense(inputs=flatten, units=512, activation=tf.nn.relu)
+            fc2 = tf.layers.dense(inputs=fc1, units=512, activation=tf.nn.relu)
             logits = tf.layers.dense(inputs=fc2, units=self._config.ncls, activation=None)
             self._probs = tf.nn.softmax(logits=logits)
 
