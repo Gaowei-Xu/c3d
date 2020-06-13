@@ -58,36 +58,36 @@ class C3DModel(object):
                 name=name)
 
         with tf.compat.v1.variable_scope("C3D-Backbone"):
-            conv1 = conv3d(x=self._input_data, filters=32, activation=tf.nn.relu, name='conv1')
+            conv1 = conv3d(x=self._input_data, filters=64, activation=tf.nn.relu, name='conv1')
             relu1 = tf.nn.relu(conv1, 'relu1')
-            pool1 = pool3d(x=relu1, ksize=(2, 2, 2), strides=(2, 2, 2), name='pool1')
+            pool1 = pool3d(x=relu1, ksize=(1, 2, 2), strides=(2, 2, 2), name='pool1')
 
-            conv2 = conv3d(x=pool1, filters=48, activation=tf.nn.relu, name='conv2')
+            conv2 = conv3d(x=pool1, filters=96, activation=tf.nn.relu, name='conv2')
             relu2 = tf.nn.relu(conv2, 'relu2')
             pool2 = pool3d(x=relu2, ksize=(2, 2, 2), strides=(2, 2, 2), name='pool2')
 
-            conv3 = conv3d(x=pool2, filters=64, activation=tf.nn.relu, name='conv3a')
+            conv3 = conv3d(x=pool2, filters=128, activation=tf.nn.relu, name='conv3a')
             relu3a = tf.nn.relu(conv3, 'relu3a')
-            conv3b = conv3d(x=relu3a, filters=64, activation=tf.nn.relu, name='conv3b')
+            conv3b = conv3d(x=relu3a, filters=128, activation=tf.nn.relu, name='conv3b')
             relu3b = tf.nn.relu(conv3b, 'relu3b')
             pool3 = pool3d(x=relu3b, ksize=(2, 2, 2), strides=(2, 2, 2), name='pool3')
 
-            conv4 = conv3d(x=pool3, filters=64, activation=tf.nn.relu, name='conv4a')
+            conv4 = conv3d(x=pool3, filters=256, activation=tf.nn.relu, name='conv4a')
             relu4a = tf.nn.relu(conv4, 'relu4a')
-            conv4b = conv3d(x=relu4a, filters=64, activation=tf.nn.relu, name='conv4b')
+            conv4b = conv3d(x=relu4a, filters=256, activation=tf.nn.relu, name='conv4b')
             relu4b = tf.nn.relu(conv4b, 'relu4b')
             pool4 = pool3d(x=relu4b, ksize=(2, 2, 2), strides=(2, 2, 2), name='pool4')
 
-            conv5 = conv3d(x=pool4, filters=96, activation=tf.nn.relu, name='conv5a')
+            conv5 = conv3d(x=pool4, filters=256, activation=tf.nn.relu, name='conv5a')
             relu5a = tf.nn.relu(conv5, 'relu5a')
-            conv5b = conv3d(x=relu5a, filters=96, activation=tf.nn.relu, name='conv5b')
+            conv5b = conv3d(x=relu5a, filters=256, activation=tf.nn.relu, name='conv5b')
             relu5b = tf.nn.relu(conv5b, 'relu5b')
             pool5 = pool3d(x=relu5b, ksize=(2, 2, 2), strides=(2, 2, 2), name='pool5')
 
             # Fully connected layer
             flatten = tf.reshape(pool5, shape=(self._config.batch_size, -1))
-            fc1 = tf.layers.dense(inputs=flatten, units=256, activation=tf.nn.relu)
-            fc2 = tf.layers.dense(inputs=fc1, units=128, activation=tf.nn.relu)
+            fc1 = tf.layers.dense(inputs=flatten, units=1024, activation=tf.nn.relu)
+            fc2 = tf.layers.dense(inputs=fc1, units=1024, activation=tf.nn.relu)
             logits = tf.layers.dense(inputs=fc2, units=self._config.ncls, activation=None)
             self._probs = tf.nn.softmax(logits=logits)
 
