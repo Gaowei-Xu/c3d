@@ -17,7 +17,7 @@ class Configuration(object):
 
         self._ncls = 18
 
-        self._learning_rate = 0.001
+        self._learning_rate = 0.0002
 
         self._max_epoch = 250
         self._train_summary_root_dir = '../train/'
