@@ -8,7 +8,7 @@
     
 samples amount distribution over 18 classes
 
-![text] (https://github.com/Gaowei-Xu/c3d/blob/master/dist.jpg)
+![avatar] (https://github.com/Gaowei-Xu/c3d/blob/master/dist.jpg)
 
 
 
