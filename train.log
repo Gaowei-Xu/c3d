@@ -4774,3 +4774,1990 @@ Start to train model:
 [Training] Epoch 37: batch 17 / 20: loss = 0.48159998655319214, accuracy over batch = 0.8438000082969666.
 [Training] Epoch 37: batch 18 / 20: loss = 0.5044999718666077, accuracy over batch = 0.7968999743461609.
 [Training] Epoch 37: batch 19 / 20: loss = 0.3303000032901764, accuracy over batch = 0.8593999743461609.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 37: batch 0: loss = 4.309899806976318, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 37: batch 1: loss = 4.098599910736084, accuracy over batch = 0.375.
+[Inference] Epoch 37: batch 2: loss = 4.079100131988525, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 37: batch 3: loss = 2.999300003051758, accuracy over batch = 0.40619999170303345.
+[Inference] Epoch 37: batch 4: loss = 3.649199962615967, accuracy over batch = 0.3905999958515167.
+
+=====================================  Epoch 38 =====================================
+[Training] Epoch 38: batch 0 / 20: loss = 0.1509000062942505, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 38: batch 1 / 20: loss = 0.2085999995470047, accuracy over batch = 0.9375.
+[Training] Epoch 38: batch 2 / 20: loss = 0.3059999942779541, accuracy over batch = 0.8593999743461609.
+[Training] Epoch 38: batch 3 / 20: loss = 0.15600000321865082, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 38: batch 4 / 20: loss = 0.11819999665021896, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 38: batch 5 / 20: loss = 0.26989999413490295, accuracy over batch = 0.875.
+[Training] Epoch 38: batch 6 / 20: loss = 0.25850000977516174, accuracy over batch = 0.875.
+[Training] Epoch 38: batch 7 / 20: loss = 0.1687999963760376, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 38: batch 8 / 20: loss = 0.24369999766349792, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 38: batch 9 / 20: loss = 0.2199999988079071, accuracy over batch = 0.8906000256538391.
+[Training] Epoch 38: batch 10 / 20: loss = 0.3977000117301941, accuracy over batch = 0.8438000082969666.
+[Training] Epoch 38: batch 11 / 20: loss = 0.32919999957084656, accuracy over batch = 0.8593999743461609.
+[Training] Epoch 38: batch 12 / 20: loss = 0.1597999930381775, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 38: batch 13 / 20: loss = 0.32519999146461487, accuracy over batch = 0.875.
+[Training] Epoch 38: batch 14 / 20: loss = 0.5285999774932861, accuracy over batch = 0.8281000256538391.
+[Training] Epoch 38: batch 15 / 20: loss = 0.40849998593330383, accuracy over batch = 0.875.
+[Training] Epoch 38: batch 16 / 20: loss = 0.22599999606609344, accuracy over batch = 0.9375.
+[Training] Epoch 38: batch 17 / 20: loss = 0.3901999890804291, accuracy over batch = 0.875.
+[Training] Epoch 38: batch 18 / 20: loss = 0.36149999499320984, accuracy over batch = 0.8906000256538391.
+[Training] Epoch 38: batch 19 / 20: loss = 0.6014999747276306, accuracy over batch = 0.75.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 38: batch 0: loss = 4.187300205230713, accuracy over batch = 0.2969000041484833.
+[Inference] Epoch 38: batch 1: loss = 3.8952999114990234, accuracy over batch = 0.40619999170303345.
+[Inference] Epoch 38: batch 2: loss = 3.7792999744415283, accuracy over batch = 0.40619999170303345.
+[Inference] Epoch 38: batch 3: loss = 2.6308000087738037, accuracy over batch = 0.5.
+[Inference] Epoch 38: batch 4: loss = 3.766200065612793, accuracy over batch = 0.3594000041484833.
+
+=====================================  Epoch 39 =====================================
+[Training] Epoch 39: batch 0 / 20: loss = 0.3546000123023987, accuracy over batch = 0.875.
+[Training] Epoch 39: batch 1 / 20: loss = 0.2273000031709671, accuracy over batch = 0.9375.
+[Training] Epoch 39: batch 2 / 20: loss = 0.4957999885082245, accuracy over batch = 0.8281000256538391.
+[Training] Epoch 39: batch 3 / 20: loss = 0.4699999988079071, accuracy over batch = 0.8281000256538391.
+[Training] Epoch 39: batch 4 / 20: loss = 0.3255999982357025, accuracy over batch = 0.8593999743461609.
+[Training] Epoch 39: batch 5 / 20: loss = 0.19920000433921814, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 39: batch 6 / 20: loss = 0.20970000326633453, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 39: batch 7 / 20: loss = 0.23070000112056732, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 39: batch 8 / 20: loss = 0.2777000069618225, accuracy over batch = 0.875.
+[Training] Epoch 39: batch 9 / 20: loss = 0.42899999022483826, accuracy over batch = 0.8438000082969666.
+[Training] Epoch 39: batch 10 / 20: loss = 0.5002999901771545, accuracy over batch = 0.7968999743461609.
+[Training] Epoch 39: batch 11 / 20: loss = 0.4059000015258789, accuracy over batch = 0.8438000082969666.
+[Training] Epoch 39: batch 12 / 20: loss = 0.3158000111579895, accuracy over batch = 0.9061999917030334.
+[Training] Epoch 39: batch 13 / 20: loss = 0.265500009059906, accuracy over batch = 0.9061999917030334.
+[Training] Epoch 39: batch 14 / 20: loss = 0.4465999901294708, accuracy over batch = 0.8438000082969666.
+[Training] Epoch 39: batch 15 / 20: loss = 0.3596000075340271, accuracy over batch = 0.8593999743461609.
+[Training] Epoch 39: batch 16 / 20: loss = 0.4465000033378601, accuracy over batch = 0.875.
+[Training] Epoch 39: batch 17 / 20: loss = 0.34220001101493835, accuracy over batch = 0.875.
+[Training] Epoch 39: batch 18 / 20: loss = 0.38670000433921814, accuracy over batch = 0.8438000082969666.
+[Training] Epoch 39: batch 19 / 20: loss = 0.3540000021457672, accuracy over batch = 0.8593999743461609.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 39: batch 0: loss = 4.244800090789795, accuracy over batch = 0.2969000041484833.
+[Inference] Epoch 39: batch 1: loss = 3.830399990081787, accuracy over batch = 0.40619999170303345.
+[Inference] Epoch 39: batch 2: loss = 3.678499937057495, accuracy over batch = 0.375.
+[Inference] Epoch 39: batch 3: loss = 2.7204999923706055, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 39: batch 4: loss = 3.7304000854492188, accuracy over batch = 0.34380000829696655.
+
+=====================================  Epoch 40 =====================================
+[Training] Epoch 40: batch 0 / 20: loss = 0.2199999988079071, accuracy over batch = 0.9375.
+[Training] Epoch 40: batch 1 / 20: loss = 0.155799999833107, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 40: batch 2 / 20: loss = 0.13979999721050262, accuracy over batch = 0.9375.
+[Training] Epoch 40: batch 3 / 20: loss = 0.11100000143051147, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 40: batch 4 / 20: loss = 0.24279999732971191, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 40: batch 5 / 20: loss = 0.243599995970726, accuracy over batch = 0.9375.
+[Training] Epoch 40: batch 6 / 20: loss = 0.31360000371932983, accuracy over batch = 0.8906000256538391.
+[Training] Epoch 40: batch 7 / 20: loss = 0.3075000047683716, accuracy over batch = 0.9061999917030334.
+[Training] Epoch 40: batch 8 / 20: loss = 0.22370000183582306, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 40: batch 9 / 20: loss = 0.16140000522136688, accuracy over batch = 0.9375.
+[Training] Epoch 40: batch 10 / 20: loss = 0.16369999945163727, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 40: batch 11 / 20: loss = 0.28859999775886536, accuracy over batch = 0.9061999917030334.
+[Training] Epoch 40: batch 12 / 20: loss = 0.2329999953508377, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 40: batch 13 / 20: loss = 0.15800000727176666, accuracy over batch = 0.9375.
+[Training] Epoch 40: batch 14 / 20: loss = 0.1940000057220459, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 40: batch 15 / 20: loss = 0.22750000655651093, accuracy over batch = 0.8906000256538391.
+[Training] Epoch 40: batch 16 / 20: loss = 0.1518000066280365, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 40: batch 17 / 20: loss = 0.2676999866962433, accuracy over batch = 0.8906000256538391.
+[Training] Epoch 40: batch 18 / 20: loss = 0.27230000495910645, accuracy over batch = 0.8906000256538391.
+[Training] Epoch 40: batch 19 / 20: loss = 0.14300000667572021, accuracy over batch = 0.9688000082969666.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 40: batch 0: loss = 4.6691999435424805, accuracy over batch = 0.3594000041484833.
+[Inference] Epoch 40: batch 1: loss = 4.367300033569336, accuracy over batch = 0.4375.
+[Inference] Epoch 40: batch 2: loss = 4.944699764251709, accuracy over batch = 0.3594000041484833.
+[Inference] Epoch 40: batch 3: loss = 3.419300079345703, accuracy over batch = 0.46880000829696655.
+[Inference] Epoch 40: batch 4: loss = 4.4278998374938965, accuracy over batch = 0.2969000041484833.
+
+=====================================  Epoch 41 =====================================
+[Training] Epoch 41: batch 0 / 20: loss = 0.0658000037074089, accuracy over batch = 1.0.
+[Training] Epoch 41: batch 1 / 20: loss = 0.2240999937057495, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 41: batch 2 / 20: loss = 0.17309999465942383, accuracy over batch = 0.9375.
+[Training] Epoch 41: batch 3 / 20: loss = 0.08330000191926956, accuracy over batch = 1.0.
+[Training] Epoch 41: batch 4 / 20: loss = 0.10809999704360962, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 41: batch 5 / 20: loss = 0.20999999344348907, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 41: batch 6 / 20: loss = 0.14319999516010284, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 41: batch 7 / 20: loss = 0.09099999815225601, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 41: batch 8 / 20: loss = 0.21819999814033508, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 41: batch 9 / 20: loss = 0.24330000579357147, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 41: batch 10 / 20: loss = 0.24210000038146973, accuracy over batch = 0.9375.
+[Training] Epoch 41: batch 11 / 20: loss = 0.18199999630451202, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 41: batch 12 / 20: loss = 0.2775000035762787, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 41: batch 13 / 20: loss = 0.1777999997138977, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 41: batch 14 / 20: loss = 0.2581999897956848, accuracy over batch = 0.9061999917030334.
+[Training] Epoch 41: batch 15 / 20: loss = 0.148499995470047, accuracy over batch = 0.9375.
+[Training] Epoch 41: batch 16 / 20: loss = 0.3456999957561493, accuracy over batch = 0.8438000082969666.
+[Training] Epoch 41: batch 17 / 20: loss = 0.38420000672340393, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 41: batch 18 / 20: loss = 0.09080000221729279, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 41: batch 19 / 20: loss = 0.34880000352859497, accuracy over batch = 0.875.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 41: batch 0: loss = 5.085700035095215, accuracy over batch = 0.28119999170303345.
+[Inference] Epoch 41: batch 1: loss = 4.07859992980957, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 41: batch 2: loss = 4.5335001945495605, accuracy over batch = 0.40619999170303345.
+[Inference] Epoch 41: batch 3: loss = 3.3136000633239746, accuracy over batch = 0.40619999170303345.
+[Inference] Epoch 41: batch 4: loss = 4.748899936676025, accuracy over batch = 0.3594000041484833.
+
+=====================================  Epoch 42 =====================================
+[Training] Epoch 42: batch 0 / 20: loss = 0.22429999709129333, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 42: batch 1 / 20: loss = 0.2870999872684479, accuracy over batch = 0.8906000256538391.
+[Training] Epoch 42: batch 2 / 20: loss = 0.329800009727478, accuracy over batch = 0.9061999917030334.
+[Training] Epoch 42: batch 3 / 20: loss = 0.16670000553131104, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 42: batch 4 / 20: loss = 0.13989999890327454, accuracy over batch = 0.9375.
+[Training] Epoch 42: batch 5 / 20: loss = 0.11110000312328339, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 42: batch 6 / 20: loss = 0.15369999408721924, accuracy over batch = 0.9375.
+[Training] Epoch 42: batch 7 / 20: loss = 0.23819999396800995, accuracy over batch = 0.875.
+[Training] Epoch 42: batch 8 / 20: loss = 0.19059999287128448, accuracy over batch = 0.9375.
+[Training] Epoch 42: batch 9 / 20: loss = 0.36230000853538513, accuracy over batch = 0.875.
+[Training] Epoch 42: batch 10 / 20: loss = 0.44130000472068787, accuracy over batch = 0.9061999917030334.
+[Training] Epoch 42: batch 11 / 20: loss = 0.06350000202655792, accuracy over batch = 1.0.
+[Training] Epoch 42: batch 12 / 20: loss = 0.30090001225471497, accuracy over batch = 0.875.
+[Training] Epoch 42: batch 13 / 20: loss = 0.1712999939918518, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 42: batch 14 / 20: loss = 0.3573000133037567, accuracy over batch = 0.875.
+[Training] Epoch 42: batch 15 / 20: loss = 0.30169999599456787, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 42: batch 16 / 20: loss = 0.2475000023841858, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 42: batch 17 / 20: loss = 0.17309999465942383, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 42: batch 18 / 20: loss = 0.1875, accuracy over batch = 0.9061999917030334.
+[Training] Epoch 42: batch 19 / 20: loss = 0.2273000031709671, accuracy over batch = 0.8906000256538391.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 42: batch 0: loss = 5.408400058746338, accuracy over batch = 0.28119999170303345.
+[Inference] Epoch 42: batch 1: loss = 4.127699851989746, accuracy over batch = 0.5.
+[Inference] Epoch 42: batch 2: loss = 3.6695001125335693, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 42: batch 3: loss = 3.5915000438690186, accuracy over batch = 0.5.
+[Inference] Epoch 42: batch 4: loss = 4.097599983215332, accuracy over batch = 0.3905999958515167.
+
+=====================================  Epoch 43 =====================================
+[Training] Epoch 43: batch 0 / 20: loss = 0.06019999831914902, accuracy over batch = 1.0.
+[Training] Epoch 43: batch 1 / 20: loss = 0.24009999632835388, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 43: batch 2 / 20: loss = 0.1534000039100647, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 43: batch 3 / 20: loss = 0.1914999932050705, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 43: batch 4 / 20: loss = 0.19089999794960022, accuracy over batch = 0.9375.
+[Training] Epoch 43: batch 5 / 20: loss = 0.1695999950170517, accuracy over batch = 0.9061999917030334.
+[Training] Epoch 43: batch 6 / 20: loss = 0.10270000249147415, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 43: batch 7 / 20: loss = 0.09610000252723694, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 43: batch 8 / 20: loss = 0.12809999287128448, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 43: batch 9 / 20: loss = 0.17970000207424164, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 43: batch 10 / 20: loss = 0.14079999923706055, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 43: batch 11 / 20: loss = 0.1324000060558319, accuracy over batch = 0.9375.
+[Training] Epoch 43: batch 12 / 20: loss = 0.11339999735355377, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 43: batch 13 / 20: loss = 0.25760000944137573, accuracy over batch = 0.8906000256538391.
+[Training] Epoch 43: batch 14 / 20: loss = 0.1729000061750412, accuracy over batch = 0.9375.
+[Training] Epoch 43: batch 15 / 20: loss = 0.17810000479221344, accuracy over batch = 0.9375.
+[Training] Epoch 43: batch 16 / 20: loss = 0.08749999850988388, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 43: batch 17 / 20: loss = 0.15880000591278076, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 43: batch 18 / 20: loss = 0.07739999890327454, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 43: batch 19 / 20: loss = 0.15109999477863312, accuracy over batch = 0.9688000082969666.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 43: batch 0: loss = 5.336900234222412, accuracy over batch = 0.3594000041484833.
+[Inference] Epoch 43: batch 1: loss = 4.768599987030029, accuracy over batch = 0.4375.
+[Inference] Epoch 43: batch 2: loss = 4.561999797821045, accuracy over batch = 0.3594000041484833.
+[Inference] Epoch 43: batch 3: loss = 3.8613998889923096, accuracy over batch = 0.4375.
+[Inference] Epoch 43: batch 4: loss = 4.695000171661377, accuracy over batch = 0.375.
+
+=====================================  Epoch 44 =====================================
+[Training] Epoch 44: batch 0 / 20: loss = 0.10270000249147415, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 44: batch 1 / 20: loss = 0.06960000097751617, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 44: batch 2 / 20: loss = 0.12680000066757202, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 44: batch 3 / 20: loss = 0.06369999796152115, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 44: batch 4 / 20: loss = 0.05400000140070915, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 44: batch 5 / 20: loss = 0.023900000378489494, accuracy over batch = 1.0.
+[Training] Epoch 44: batch 6 / 20: loss = 0.09279999881982803, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 44: batch 7 / 20: loss = 0.03310000151395798, accuracy over batch = 1.0.
+[Training] Epoch 44: batch 8 / 20: loss = 0.07810000330209732, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 44: batch 9 / 20: loss = 0.13850000500679016, accuracy over batch = 0.9375.
+[Training] Epoch 44: batch 10 / 20: loss = 0.06750000268220901, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 44: batch 11 / 20: loss = 0.12710000574588776, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 44: batch 12 / 20: loss = 0.2329999953508377, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 44: batch 13 / 20: loss = 0.05570000037550926, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 44: batch 14 / 20: loss = 0.03099999949336052, accuracy over batch = 1.0.
+[Training] Epoch 44: batch 15 / 20: loss = 0.05090000107884407, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 44: batch 16 / 20: loss = 0.23260000348091125, accuracy over batch = 0.8593999743461609.
+[Training] Epoch 44: batch 17 / 20: loss = 0.06669999659061432, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 44: batch 18 / 20: loss = 0.05900000035762787, accuracy over batch = 1.0.
+[Training] Epoch 44: batch 19 / 20: loss = 0.10559999942779541, accuracy over batch = 0.9531000256538391.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 44: batch 0: loss = 6.684199810028076, accuracy over batch = 0.34380000829696655.
+[Inference] Epoch 44: batch 1: loss = 5.529099941253662, accuracy over batch = 0.46880000829696655.
+[Inference] Epoch 44: batch 2: loss = 5.085000038146973, accuracy over batch = 0.4219000041484833.
+[Inference] Epoch 44: batch 3: loss = 4.573299884796143, accuracy over batch = 0.46880000829696655.
+[Inference] Epoch 44: batch 4: loss = 5.228099822998047, accuracy over batch = 0.3905999958515167.
+
+=====================================  Epoch 45 =====================================
+[Training] Epoch 45: batch 0 / 20: loss = 0.09399999678134918, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 45: batch 1 / 20: loss = 0.07150000333786011, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 45: batch 2 / 20: loss = 0.09989999979734421, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 45: batch 3 / 20: loss = 0.028200000524520874, accuracy over batch = 1.0.
+[Training] Epoch 45: batch 4 / 20: loss = 0.0348999984562397, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 45: batch 5 / 20: loss = 0.029100000858306885, accuracy over batch = 1.0.
+[Training] Epoch 45: batch 6 / 20: loss = 0.01360000018030405, accuracy over batch = 1.0.
+[Training] Epoch 45: batch 7 / 20: loss = 0.052000001072883606, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 45: batch 8 / 20: loss = 0.10369999706745148, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 45: batch 9 / 20: loss = 0.054499998688697815, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 45: batch 10 / 20: loss = 0.09950000047683716, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 45: batch 11 / 20: loss = 0.07750000059604645, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 45: batch 12 / 20: loss = 0.0737999975681305, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 45: batch 13 / 20: loss = 0.034699998795986176, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 45: batch 14 / 20: loss = 0.06199999898672104, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 45: batch 15 / 20: loss = 0.03200000151991844, accuracy over batch = 1.0.
+[Training] Epoch 45: batch 16 / 20: loss = 0.04600000008940697, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 45: batch 17 / 20: loss = 0.03370000049471855, accuracy over batch = 1.0.
+[Training] Epoch 45: batch 18 / 20: loss = 0.04050000011920929, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 45: batch 19 / 20: loss = 0.09480000287294388, accuracy over batch = 0.9688000082969666.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 45: batch 0: loss = 6.930099964141846, accuracy over batch = 0.3280999958515167.
+[Inference] Epoch 45: batch 1: loss = 4.996600151062012, accuracy over batch = 0.4219000041484833.
+[Inference] Epoch 45: batch 2: loss = 5.621799945831299, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 45: batch 3: loss = 5.47189998626709, accuracy over batch = 0.375.
+[Inference] Epoch 45: batch 4: loss = 5.753499984741211, accuracy over batch = 0.34380000829696655.
+
+=====================================  Epoch 46 =====================================
+[Training] Epoch 46: batch 0 / 20: loss = 0.045099999755620956, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 46: batch 1 / 20: loss = 0.012199999764561653, accuracy over batch = 1.0.
+[Training] Epoch 46: batch 2 / 20: loss = 0.10109999775886536, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 46: batch 3 / 20: loss = 0.06499999761581421, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 46: batch 4 / 20: loss = 0.028699999675154686, accuracy over batch = 1.0.
+[Training] Epoch 46: batch 5 / 20: loss = 0.039400000125169754, accuracy over batch = 1.0.
+[Training] Epoch 46: batch 6 / 20: loss = 0.03500000014901161, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 46: batch 7 / 20: loss = 0.028699999675154686, accuracy over batch = 1.0.
+[Training] Epoch 46: batch 8 / 20: loss = 0.03889999911189079, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 46: batch 9 / 20: loss = 0.1266999989748001, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 46: batch 10 / 20: loss = 0.031300000846385956, accuracy over batch = 1.0.
+[Training] Epoch 46: batch 11 / 20: loss = 0.01679999940097332, accuracy over batch = 1.0.
+[Training] Epoch 46: batch 12 / 20: loss = 0.1476999968290329, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 46: batch 13 / 20: loss = 0.018799999728798866, accuracy over batch = 1.0.
+[Training] Epoch 46: batch 14 / 20: loss = 0.054099999368190765, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 46: batch 15 / 20: loss = 0.05290000140666962, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 46: batch 16 / 20: loss = 0.0917000025510788, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 46: batch 17 / 20: loss = 0.014800000004470348, accuracy over batch = 1.0.
+[Training] Epoch 46: batch 18 / 20: loss = 0.06679999828338623, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 46: batch 19 / 20: loss = 0.07039999961853027, accuracy over batch = 0.9531000256538391.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 46: batch 0: loss = 7.414100170135498, accuracy over batch = 0.3594000041484833.
+[Inference] Epoch 46: batch 1: loss = 6.373300075531006, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 46: batch 2: loss = 6.276899814605713, accuracy over batch = 0.3125.
+[Inference] Epoch 46: batch 3: loss = 5.704500198364258, accuracy over batch = 0.4219000041484833.
+[Inference] Epoch 46: batch 4: loss = 6.434000015258789, accuracy over batch = 0.3280999958515167.
+
+=====================================  Epoch 47 =====================================
+[Training] Epoch 47: batch 0 / 20: loss = 0.04100000113248825, accuracy over batch = 1.0.
+[Training] Epoch 47: batch 1 / 20: loss = 0.051500000059604645, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 47: batch 2 / 20: loss = 0.02889999933540821, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 47: batch 3 / 20: loss = 0.12530000507831573, accuracy over batch = 0.9375.
+[Training] Epoch 47: batch 4 / 20: loss = 0.04769999906420708, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 47: batch 5 / 20: loss = 0.11299999803304672, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 47: batch 6 / 20: loss = 0.06040000170469284, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 47: batch 7 / 20: loss = 0.15399999916553497, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 47: batch 8 / 20: loss = 0.09120000153779984, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 47: batch 9 / 20: loss = 0.06129999831318855, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 47: batch 10 / 20: loss = 0.032499998807907104, accuracy over batch = 1.0.
+[Training] Epoch 47: batch 11 / 20: loss = 0.1500999927520752, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 47: batch 12 / 20: loss = 0.08470000326633453, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 47: batch 13 / 20: loss = 0.11879999935626984, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 47: batch 14 / 20: loss = 0.025299999862909317, accuracy over batch = 1.0.
+[Training] Epoch 47: batch 15 / 20: loss = 0.15940000116825104, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 47: batch 16 / 20: loss = 0.32839998602867126, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 47: batch 17 / 20: loss = 0.05350000038743019, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 47: batch 18 / 20: loss = 0.1949000060558319, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 47: batch 19 / 20: loss = 0.20990000665187836, accuracy over batch = 0.9218999743461609.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 47: batch 0: loss = 6.308899879455566, accuracy over batch = 0.3280999958515167.
+[Inference] Epoch 47: batch 1: loss = 5.8379998207092285, accuracy over batch = 0.40619999170303345.
+[Inference] Epoch 47: batch 2: loss = 6.436600208282471, accuracy over batch = 0.3594000041484833.
+[Inference] Epoch 47: batch 3: loss = 4.690700054168701, accuracy over batch = 0.375.
+[Inference] Epoch 47: batch 4: loss = 5.643499851226807, accuracy over batch = 0.3594000041484833.
+
+=====================================  Epoch 48 =====================================
+[Training] Epoch 48: batch 0 / 20: loss = 0.07680000364780426, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 48: batch 1 / 20: loss = 0.04230000078678131, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 48: batch 2 / 20: loss = 0.2290000021457672, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 48: batch 3 / 20: loss = 0.4767000079154968, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 48: batch 4 / 20: loss = 0.21930000185966492, accuracy over batch = 0.9375.
+[Training] Epoch 48: batch 5 / 20: loss = 0.17810000479221344, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 48: batch 6 / 20: loss = 0.13500000536441803, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 48: batch 7 / 20: loss = 0.3871999979019165, accuracy over batch = 0.8438000082969666.
+[Training] Epoch 48: batch 8 / 20: loss = 0.5084999799728394, accuracy over batch = 0.8281000256538391.
+[Training] Epoch 48: batch 9 / 20: loss = 0.1623000055551529, accuracy over batch = 0.9375.
+[Training] Epoch 48: batch 10 / 20: loss = 0.13899999856948853, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 48: batch 11 / 20: loss = 0.6693000197410583, accuracy over batch = 0.75.
+[Training] Epoch 48: batch 12 / 20: loss = 0.22930000722408295, accuracy over batch = 0.9375.
+[Training] Epoch 48: batch 13 / 20: loss = 0.1404999941587448, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 48: batch 14 / 20: loss = 0.6718000173568726, accuracy over batch = 0.7968999743461609.
+[Training] Epoch 48: batch 15 / 20: loss = 0.3066999912261963, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 48: batch 16 / 20: loss = 0.28119999170303345, accuracy over batch = 0.8906000256538391.
+[Training] Epoch 48: batch 17 / 20: loss = 0.3634999990463257, accuracy over batch = 0.8438000082969666.
+[Training] Epoch 48: batch 18 / 20: loss = 0.43230000138282776, accuracy over batch = 0.875.
+[Training] Epoch 48: batch 19 / 20: loss = 0.2535000145435333, accuracy over batch = 0.9218999743461609.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 48: batch 0: loss = 4.24459981918335, accuracy over batch = 0.3280999958515167.
+[Inference] Epoch 48: batch 1: loss = 3.4547998905181885, accuracy over batch = 0.40619999170303345.
+[Inference] Epoch 48: batch 2: loss = 3.807800054550171, accuracy over batch = 0.40619999170303345.
+[Inference] Epoch 48: batch 3: loss = 3.1926000118255615, accuracy over batch = 0.4375.
+[Inference] Epoch 48: batch 4: loss = 3.573899984359741, accuracy over batch = 0.2969000041484833.
+
+=====================================  Epoch 49 =====================================
+[Training] Epoch 49: batch 0 / 20: loss = 0.23890000581741333, accuracy over batch = 0.9061999917030334.
+[Training] Epoch 49: batch 1 / 20: loss = 0.12110000103712082, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 49: batch 2 / 20: loss = 0.27480000257492065, accuracy over batch = 0.9061999917030334.
+[Training] Epoch 49: batch 3 / 20: loss = 0.2224999964237213, accuracy over batch = 0.9375.
+[Training] Epoch 49: batch 4 / 20: loss = 0.16689999401569366, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 49: batch 5 / 20: loss = 0.1225999966263771, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 49: batch 6 / 20: loss = 0.20360000431537628, accuracy over batch = 0.9375.
+[Training] Epoch 49: batch 7 / 20: loss = 0.1371999979019165, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 49: batch 8 / 20: loss = 0.1168999969959259, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 49: batch 9 / 20: loss = 0.08579999953508377, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 49: batch 10 / 20: loss = 0.0364999994635582, accuracy over batch = 1.0.
+[Training] Epoch 49: batch 11 / 20: loss = 0.11869999766349792, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 49: batch 12 / 20: loss = 0.18889999389648438, accuracy over batch = 0.9375.
+[Training] Epoch 49: batch 13 / 20: loss = 0.3544999957084656, accuracy over batch = 0.8906000256538391.
+[Training] Epoch 49: batch 14 / 20: loss = 0.2492000013589859, accuracy over batch = 0.9061999917030334.
+[Training] Epoch 49: batch 15 / 20: loss = 0.20679999887943268, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 49: batch 16 / 20: loss = 0.1720000058412552, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 49: batch 17 / 20: loss = 0.10040000081062317, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 49: batch 18 / 20: loss = 0.243599995970726, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 49: batch 19 / 20: loss = 0.11620000004768372, accuracy over batch = 0.9688000082969666.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 49: batch 0: loss = 5.531899929046631, accuracy over batch = 0.375.
+[Inference] Epoch 49: batch 1: loss = 4.326900005340576, accuracy over batch = 0.4219000041484833.
+[Inference] Epoch 49: batch 2: loss = 4.932000160217285, accuracy over batch = 0.3594000041484833.
+[Inference] Epoch 49: batch 3: loss = 4.016499996185303, accuracy over batch = 0.5.
+[Inference] Epoch 49: batch 4: loss = 4.414400100708008, accuracy over batch = 0.3594000041484833.
+
+=====================================  Epoch 50 =====================================
+[Training] Epoch 50: batch 0 / 20: loss = 0.11050000041723251, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 50: batch 1 / 20: loss = 0.10689999908208847, accuracy over batch = 0.9375.
+[Training] Epoch 50: batch 2 / 20: loss = 0.1940000057220459, accuracy over batch = 0.9061999917030334.
+[Training] Epoch 50: batch 3 / 20: loss = 0.05119999870657921, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 50: batch 4 / 20: loss = 0.08139999955892563, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 50: batch 5 / 20: loss = 0.09969999641180038, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 50: batch 6 / 20: loss = 0.09139999747276306, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 50: batch 7 / 20: loss = 0.0828000009059906, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 50: batch 8 / 20: loss = 0.08079999685287476, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 50: batch 9 / 20: loss = 0.08829999715089798, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 50: batch 10 / 20: loss = 0.029100000858306885, accuracy over batch = 1.0.
+[Training] Epoch 50: batch 11 / 20: loss = 0.13300000131130219, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 50: batch 12 / 20: loss = 0.062300000339746475, accuracy over batch = 1.0.
+[Training] Epoch 50: batch 13 / 20: loss = 0.08540000021457672, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 50: batch 14 / 20: loss = 0.051500000059604645, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 50: batch 15 / 20: loss = 0.14920000731945038, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 50: batch 16 / 20: loss = 0.04569999873638153, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 50: batch 17 / 20: loss = 0.08129999786615372, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 50: batch 18 / 20: loss = 0.054499998688697815, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 50: batch 19 / 20: loss = 0.052299998700618744, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 50: batch 0: loss = 6.077199935913086, accuracy over batch = 0.34380000829696655.
+[Inference] Epoch 50: batch 1: loss = 5.105500221252441, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 50: batch 2: loss = 6.004799842834473, accuracy over batch = 0.34380000829696655.
+[Inference] Epoch 50: batch 3: loss = 4.197999954223633, accuracy over batch = 0.46880000829696655.
+[Inference] Epoch 50: batch 4: loss = 4.931399822235107, accuracy over batch = 0.3594000041484833.
+
+=====================================  Epoch 51 =====================================
+[Training] Epoch 51: batch 0 / 20: loss = 0.0333000011742115, accuracy over batch = 1.0.
+[Training] Epoch 51: batch 1 / 20: loss = 0.10329999774694443, accuracy over batch = 0.9375.
+[Training] Epoch 51: batch 2 / 20: loss = 0.14650000631809235, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 51: batch 3 / 20: loss = 0.05420000106096268, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 51: batch 4 / 20: loss = 0.011500000022351742, accuracy over batch = 1.0.
+[Training] Epoch 51: batch 5 / 20: loss = 0.03629999980330467, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 51: batch 6 / 20: loss = 0.02280000038444996, accuracy over batch = 1.0.
+[Training] Epoch 51: batch 7 / 20: loss = 0.05719999969005585, accuracy over batch = 1.0.
+[Training] Epoch 51: batch 8 / 20: loss = 0.13019999861717224, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 51: batch 9 / 20: loss = 0.1428000032901764, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 51: batch 10 / 20: loss = 0.017799999564886093, accuracy over batch = 1.0.
+[Training] Epoch 51: batch 11 / 20: loss = 0.01600000075995922, accuracy over batch = 1.0.
+[Training] Epoch 51: batch 12 / 20: loss = 0.03440000116825104, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 51: batch 13 / 20: loss = 0.060100000351667404, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 51: batch 14 / 20: loss = 0.0763000026345253, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 51: batch 15 / 20: loss = 0.11550000309944153, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 51: batch 16 / 20: loss = 0.15209999680519104, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 51: batch 17 / 20: loss = 0.11089999973773956, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 51: batch 18 / 20: loss = 0.15610000491142273, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 51: batch 19 / 20: loss = 0.03539999946951866, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 51: batch 0: loss = 5.61269998550415, accuracy over batch = 0.3280999958515167.
+[Inference] Epoch 51: batch 1: loss = 5.251399993896484, accuracy over batch = 0.4219000041484833.
+[Inference] Epoch 51: batch 2: loss = 5.429500102996826, accuracy over batch = 0.3280999958515167.
+[Inference] Epoch 51: batch 3: loss = 3.87719988822937, accuracy over batch = 0.4219000041484833.
+[Inference] Epoch 51: batch 4: loss = 5.154200077056885, accuracy over batch = 0.34380000829696655.
+
+=====================================  Epoch 52 =====================================
+[Training] Epoch 52: batch 0 / 20: loss = 0.011099999770522118, accuracy over batch = 1.0.
+[Training] Epoch 52: batch 1 / 20: loss = 0.03530000150203705, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 52: batch 2 / 20: loss = 0.04270000010728836, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 52: batch 3 / 20: loss = 0.06379999965429306, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 52: batch 4 / 20: loss = 0.04780000075697899, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 52: batch 5 / 20: loss = 0.11760000139474869, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 52: batch 6 / 20: loss = 0.02539999969303608, accuracy over batch = 1.0.
+[Training] Epoch 52: batch 7 / 20: loss = 0.05920000001788139, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 52: batch 8 / 20: loss = 0.0502999983727932, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 52: batch 9 / 20: loss = 0.05260000005364418, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 52: batch 10 / 20: loss = 0.05090000107884407, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 52: batch 11 / 20: loss = 0.04280000180006027, accuracy over batch = 1.0.
+[Training] Epoch 52: batch 12 / 20: loss = 0.01730000041425228, accuracy over batch = 1.0.
+[Training] Epoch 52: batch 13 / 20: loss = 0.1340000033378601, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 52: batch 14 / 20: loss = 0.00839999970048666, accuracy over batch = 1.0.
+[Training] Epoch 52: batch 15 / 20: loss = 0.01590000092983246, accuracy over batch = 1.0.
+[Training] Epoch 52: batch 16 / 20: loss = 0.14489999413490295, accuracy over batch = 0.9375.
+[Training] Epoch 52: batch 17 / 20: loss = 0.0658000037074089, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 52: batch 18 / 20: loss = 0.021800000220537186, accuracy over batch = 1.0.
+[Training] Epoch 52: batch 19 / 20: loss = 0.0421999990940094, accuracy over batch = 0.9843999743461609.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 52: batch 0: loss = 6.657899856567383, accuracy over batch = 0.34380000829696655.
+[Inference] Epoch 52: batch 1: loss = 5.080999851226807, accuracy over batch = 0.5.
+[Inference] Epoch 52: batch 2: loss = 6.043499946594238, accuracy over batch = 0.3594000041484833.
+[Inference] Epoch 52: batch 3: loss = 4.39709997177124, accuracy over batch = 0.4375.
+[Inference] Epoch 52: batch 4: loss = 5.197500228881836, accuracy over batch = 0.40619999170303345.
+
+=====================================  Epoch 53 =====================================
+[Training] Epoch 53: batch 0 / 20: loss = 0.07109999656677246, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 53: batch 1 / 20: loss = 0.051899999380111694, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 53: batch 2 / 20: loss = 0.031300000846385956, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 53: batch 3 / 20: loss = 0.03680000081658363, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 53: batch 4 / 20: loss = 0.009600000455975533, accuracy over batch = 1.0.
+[Training] Epoch 53: batch 5 / 20: loss = 0.01600000075995922, accuracy over batch = 1.0.
+[Training] Epoch 53: batch 6 / 20: loss = 0.061400000005960464, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 53: batch 7 / 20: loss = 0.023800000548362732, accuracy over batch = 1.0.
+[Training] Epoch 53: batch 8 / 20: loss = 0.05590000003576279, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 53: batch 9 / 20: loss = 0.046799998730421066, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 53: batch 10 / 20: loss = 0.018300000578165054, accuracy over batch = 1.0.
+[Training] Epoch 53: batch 11 / 20: loss = 0.08879999816417694, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 53: batch 12 / 20: loss = 0.07450000196695328, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 53: batch 13 / 20: loss = 0.07370000332593918, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 53: batch 14 / 20: loss = 0.05469999834895134, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 53: batch 15 / 20: loss = 0.00839999970048666, accuracy over batch = 1.0.
+[Training] Epoch 53: batch 16 / 20: loss = 0.08749999850988388, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 53: batch 17 / 20: loss = 0.19110000133514404, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 53: batch 18 / 20: loss = 0.05220000073313713, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 53: batch 19 / 20: loss = 0.03909999877214432, accuracy over batch = 0.9843999743461609.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 53: batch 0: loss = 6.94920015335083, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 53: batch 1: loss = 6.547900199890137, accuracy over batch = 0.40619999170303345.
+[Inference] Epoch 53: batch 2: loss = 5.85860013961792, accuracy over batch = 0.4375.
+[Inference] Epoch 53: batch 3: loss = 4.837600231170654, accuracy over batch = 0.5.
+[Inference] Epoch 53: batch 4: loss = 5.513800144195557, accuracy over batch = 0.3594000041484833.
+
+=====================================  Epoch 54 =====================================
+[Training] Epoch 54: batch 0 / 20: loss = 0.026799999177455902, accuracy over batch = 1.0.
+[Training] Epoch 54: batch 1 / 20: loss = 0.04450000077486038, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 54: batch 2 / 20: loss = 0.20669999718666077, accuracy over batch = 0.9375.
+[Training] Epoch 54: batch 3 / 20: loss = 0.03849999979138374, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 54: batch 4 / 20: loss = 0.03959999978542328, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 54: batch 5 / 20: loss = 0.034299999475479126, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 54: batch 6 / 20: loss = 0.06759999692440033, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 54: batch 7 / 20: loss = 0.1574999988079071, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 54: batch 8 / 20: loss = 0.03610000014305115, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 54: batch 9 / 20: loss = 0.03440000116825104, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 54: batch 10 / 20: loss = 0.013299999758601189, accuracy over batch = 1.0.
+[Training] Epoch 54: batch 11 / 20: loss = 0.024399999529123306, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 54: batch 12 / 20: loss = 0.08910000324249268, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 54: batch 13 / 20: loss = 0.03530000150203705, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 54: batch 14 / 20: loss = 0.01810000091791153, accuracy over batch = 1.0.
+[Training] Epoch 54: batch 15 / 20: loss = 0.01679999940097332, accuracy over batch = 1.0.
+[Training] Epoch 54: batch 16 / 20: loss = 0.051899999380111694, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 54: batch 17 / 20: loss = 0.027899999171495438, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 54: batch 18 / 20: loss = 0.028200000524520874, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 54: batch 19 / 20: loss = 0.01269999984651804, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 54: batch 0: loss = 5.532700061798096, accuracy over batch = 0.34380000829696655.
+[Inference] Epoch 54: batch 1: loss = 6.0655999183654785, accuracy over batch = 0.4219000041484833.
+[Inference] Epoch 54: batch 2: loss = 5.809800148010254, accuracy over batch = 0.375.
+[Inference] Epoch 54: batch 3: loss = 4.558700084686279, accuracy over batch = 0.4219000041484833.
+[Inference] Epoch 54: batch 4: loss = 5.412600040435791, accuracy over batch = 0.2655999958515167.
+
+=====================================  Epoch 55 =====================================
+[Training] Epoch 55: batch 0 / 20: loss = 0.016499999910593033, accuracy over batch = 1.0.
+[Training] Epoch 55: batch 1 / 20: loss = 0.0272000003606081, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 55: batch 2 / 20: loss = 0.03620000183582306, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 55: batch 3 / 20: loss = 0.02810000069439411, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 55: batch 4 / 20: loss = 0.039400000125169754, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 55: batch 5 / 20: loss = 0.05660000070929527, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 55: batch 6 / 20: loss = 0.01889999955892563, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 55: batch 7 / 20: loss = 0.014499999582767487, accuracy over batch = 1.0.
+[Training] Epoch 55: batch 8 / 20: loss = 0.004000000189989805, accuracy over batch = 1.0.
+[Training] Epoch 55: batch 9 / 20: loss = 0.02239999920129776, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 55: batch 10 / 20: loss = 0.025599999353289604, accuracy over batch = 1.0.
+[Training] Epoch 55: batch 11 / 20: loss = 0.050700001418590546, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 55: batch 12 / 20: loss = 0.014800000004470348, accuracy over batch = 1.0.
+[Training] Epoch 55: batch 13 / 20: loss = 0.0071000000461936, accuracy over batch = 1.0.
+[Training] Epoch 55: batch 14 / 20: loss = 0.05570000037550926, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 55: batch 15 / 20: loss = 0.0843999981880188, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 55: batch 16 / 20: loss = 0.004699999932199717, accuracy over batch = 1.0.
+[Training] Epoch 55: batch 17 / 20: loss = 0.00279999990016222, accuracy over batch = 1.0.
+[Training] Epoch 55: batch 18 / 20: loss = 0.038100000470876694, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 55: batch 19 / 20: loss = 0.005400000140070915, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 55: batch 0: loss = 6.448599815368652, accuracy over batch = 0.3125.
+[Inference] Epoch 55: batch 1: loss = 6.810100078582764, accuracy over batch = 0.46880000829696655.
+[Inference] Epoch 55: batch 2: loss = 6.608500003814697, accuracy over batch = 0.3594000041484833.
+[Inference] Epoch 55: batch 3: loss = 4.887499809265137, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 55: batch 4: loss = 5.928100109100342, accuracy over batch = 0.34380000829696655.
+
+=====================================  Epoch 56 =====================================
+[Training] Epoch 56: batch 0 / 20: loss = 0.06350000202655792, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 56: batch 1 / 20: loss = 0.0038999998942017555, accuracy over batch = 1.0.
+[Training] Epoch 56: batch 2 / 20: loss = 0.08070000261068344, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 56: batch 3 / 20: loss = 0.0052999998442828655, accuracy over batch = 1.0.
+[Training] Epoch 56: batch 4 / 20: loss = 0.008999999612569809, accuracy over batch = 1.0.
+[Training] Epoch 56: batch 5 / 20: loss = 0.0471000000834465, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 56: batch 6 / 20: loss = 0.013399999588727951, accuracy over batch = 1.0.
+[Training] Epoch 56: batch 7 / 20: loss = 0.02459999918937683, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 56: batch 8 / 20: loss = 0.17919999361038208, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 56: batch 9 / 20: loss = 0.010099999606609344, accuracy over batch = 1.0.
+[Training] Epoch 56: batch 10 / 20: loss = 0.008100000210106373, accuracy over batch = 1.0.
+[Training] Epoch 56: batch 11 / 20: loss = 0.009600000455975533, accuracy over batch = 1.0.
+[Training] Epoch 56: batch 12 / 20: loss = 0.12250000238418579, accuracy over batch = 0.9375.
+[Training] Epoch 56: batch 13 / 20: loss = 0.05139999836683273, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 56: batch 14 / 20: loss = 0.0625, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 56: batch 15 / 20: loss = 0.0575999990105629, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 56: batch 16 / 20: loss = 0.058400001376867294, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 56: batch 17 / 20: loss = 0.011900000274181366, accuracy over batch = 1.0.
+[Training] Epoch 56: batch 18 / 20: loss = 0.02630000002682209, accuracy over batch = 1.0.
+[Training] Epoch 56: batch 19 / 20: loss = 0.13279999792575836, accuracy over batch = 0.9531000256538391.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 56: batch 0: loss = 6.5640997886657715, accuracy over batch = 0.3125.
+[Inference] Epoch 56: batch 1: loss = 5.872399806976318, accuracy over batch = 0.4219000041484833.
+[Inference] Epoch 56: batch 2: loss = 6.140100002288818, accuracy over batch = 0.3594000041484833.
+[Inference] Epoch 56: batch 3: loss = 4.2154998779296875, accuracy over batch = 0.4375.
+[Inference] Epoch 56: batch 4: loss = 5.691299915313721, accuracy over batch = 0.3125.
+
+=====================================  Epoch 57 =====================================
+[Training] Epoch 57: batch 0 / 20: loss = 0.08940000087022781, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 57: batch 1 / 20: loss = 0.19370000064373016, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 57: batch 2 / 20: loss = 0.1379999965429306, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 57: batch 3 / 20: loss = 0.04879999905824661, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 57: batch 4 / 20: loss = 0.06599999964237213, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 57: batch 5 / 20: loss = 0.04179999977350235, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 57: batch 6 / 20: loss = 0.12479999661445618, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 57: batch 7 / 20: loss = 0.0674000009894371, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 57: batch 8 / 20: loss = 0.03310000151395798, accuracy over batch = 1.0.
+[Training] Epoch 57: batch 9 / 20: loss = 0.05860000103712082, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 57: batch 10 / 20: loss = 0.05959999933838844, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 57: batch 11 / 20: loss = 0.05820000171661377, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 57: batch 12 / 20: loss = 0.012600000016391277, accuracy over batch = 1.0.
+[Training] Epoch 57: batch 13 / 20: loss = 0.12330000102519989, accuracy over batch = 0.9375.
+[Training] Epoch 57: batch 14 / 20: loss = 0.09740000218153, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 57: batch 15 / 20: loss = 0.024900000542402267, accuracy over batch = 1.0.
+[Training] Epoch 57: batch 16 / 20: loss = 0.03579999879002571, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 57: batch 17 / 20: loss = 0.020800000056624413, accuracy over batch = 1.0.
+[Training] Epoch 57: batch 18 / 20: loss = 0.012500000186264515, accuracy over batch = 1.0.
+[Training] Epoch 57: batch 19 / 20: loss = 0.03440000116825104, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 57: batch 0: loss = 6.5279998779296875, accuracy over batch = 0.28119999170303345.
+[Inference] Epoch 57: batch 1: loss = 5.835599899291992, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 57: batch 2: loss = 7.0381999015808105, accuracy over batch = 0.34380000829696655.
+[Inference] Epoch 57: batch 3: loss = 5.006100177764893, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 57: batch 4: loss = 5.67519998550415, accuracy over batch = 0.3125.
+
+=====================================  Epoch 58 =====================================
+[Training] Epoch 58: batch 0 / 20: loss = 0.04600000008940697, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 58: batch 1 / 20: loss = 0.01549999974668026, accuracy over batch = 1.0.
+[Training] Epoch 58: batch 2 / 20: loss = 0.05849999934434891, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 58: batch 3 / 20: loss = 0.10450000315904617, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 58: batch 4 / 20: loss = 0.010099999606609344, accuracy over batch = 1.0.
+[Training] Epoch 58: batch 5 / 20: loss = 0.02800000086426735, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 58: batch 6 / 20: loss = 0.006599999964237213, accuracy over batch = 1.0.
+[Training] Epoch 58: batch 7 / 20: loss = 0.003700000001117587, accuracy over batch = 1.0.
+[Training] Epoch 58: batch 8 / 20: loss = 0.08429999649524689, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 58: batch 9 / 20: loss = 0.032999999821186066, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 58: batch 10 / 20: loss = 0.011900000274181366, accuracy over batch = 1.0.
+[Training] Epoch 58: batch 11 / 20: loss = 0.0348999984562397, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 58: batch 12 / 20: loss = 0.009999999776482582, accuracy over batch = 1.0.
+[Training] Epoch 58: batch 13 / 20: loss = 0.018400000408291817, accuracy over batch = 1.0.
+[Training] Epoch 58: batch 14 / 20: loss = 0.03689999878406525, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 58: batch 15 / 20: loss = 0.035999998450279236, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 58: batch 16 / 20: loss = 0.0364999994635582, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 58: batch 17 / 20: loss = 0.0763000026345253, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 58: batch 18 / 20: loss = 0.005100000184029341, accuracy over batch = 1.0.
+[Training] Epoch 58: batch 19 / 20: loss = 0.15459999442100525, accuracy over batch = 0.9218999743461609.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 58: batch 0: loss = 6.7515997886657715, accuracy over batch = 0.3280999958515167.
+[Inference] Epoch 58: batch 1: loss = 6.159800052642822, accuracy over batch = 0.4844000041484833.
+[Inference] Epoch 58: batch 2: loss = 7.2129998207092285, accuracy over batch = 0.3125.
+[Inference] Epoch 58: batch 3: loss = 5.368100166320801, accuracy over batch = 0.4219000041484833.
+[Inference] Epoch 58: batch 4: loss = 6.69320011138916, accuracy over batch = 0.34380000829696655.
+
+=====================================  Epoch 59 =====================================
+[Training] Epoch 59: batch 0 / 20: loss = 0.05339999869465828, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 59: batch 1 / 20: loss = 0.09030000120401382, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 59: batch 2 / 20: loss = 0.08900000154972076, accuracy over batch = 0.9375.
+[Training] Epoch 59: batch 3 / 20: loss = 0.10029999911785126, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 59: batch 4 / 20: loss = 0.07479999959468842, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 59: batch 5 / 20: loss = 0.0066999997943639755, accuracy over batch = 1.0.
+[Training] Epoch 59: batch 6 / 20: loss = 0.0478999987244606, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 59: batch 7 / 20: loss = 0.1370999962091446, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 59: batch 8 / 20: loss = 0.16609999537467957, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 59: batch 9 / 20: loss = 0.09350000321865082, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 59: batch 10 / 20: loss = 0.007000000216066837, accuracy over batch = 1.0.
+[Training] Epoch 59: batch 11 / 20: loss = 0.11479999870061874, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 59: batch 12 / 20: loss = 0.0560000017285347, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 59: batch 13 / 20: loss = 0.14419999718666077, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 59: batch 14 / 20: loss = 0.02410000003874302, accuracy over batch = 1.0.
+[Training] Epoch 59: batch 15 / 20: loss = 0.019500000402331352, accuracy over batch = 1.0.
+[Training] Epoch 59: batch 16 / 20: loss = 0.11940000206232071, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 59: batch 17 / 20: loss = 0.2694999873638153, accuracy over batch = 0.9061999917030334.
+[Training] Epoch 59: batch 18 / 20: loss = 0.07729999721050262, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 59: batch 19 / 20: loss = 0.15440000593662262, accuracy over batch = 0.9375.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 59: batch 0: loss = 6.720600128173828, accuracy over batch = 0.3125.
+[Inference] Epoch 59: batch 1: loss = 6.031599998474121, accuracy over batch = 0.4375.
+[Inference] Epoch 59: batch 2: loss = 6.185999870300293, accuracy over batch = 0.40619999170303345.
+[Inference] Epoch 59: batch 3: loss = 4.6483001708984375, accuracy over batch = 0.4844000041484833.
+[Inference] Epoch 59: batch 4: loss = 6.572999954223633, accuracy over batch = 0.40619999170303345.
+
+=====================================  Epoch 60 =====================================
+[Training] Epoch 60: batch 0 / 20: loss = 0.4002000093460083, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 60: batch 1 / 20: loss = 0.3562999963760376, accuracy over batch = 0.9375.
+[Training] Epoch 60: batch 2 / 20: loss = 0.07940000295639038, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 60: batch 3 / 20: loss = 0.13289999961853027, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 60: batch 4 / 20: loss = 0.21469999849796295, accuracy over batch = 0.9375.
+[Training] Epoch 60: batch 5 / 20: loss = 0.24809999763965607, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 60: batch 6 / 20: loss = 0.1996999979019165, accuracy over batch = 0.9375.
+[Training] Epoch 60: batch 7 / 20: loss = 0.10740000009536743, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 60: batch 8 / 20: loss = 0.40400001406669617, accuracy over batch = 0.875.
+[Training] Epoch 60: batch 9 / 20: loss = 0.21060000360012054, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 60: batch 10 / 20: loss = 0.05990000069141388, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 60: batch 11 / 20: loss = 0.12800000607967377, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 60: batch 12 / 20: loss = 0.24449999630451202, accuracy over batch = 0.8906000256538391.
+[Training] Epoch 60: batch 13 / 20: loss = 0.12470000237226486, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 60: batch 14 / 20: loss = 0.0982000008225441, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 60: batch 15 / 20: loss = 0.28049999475479126, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 60: batch 16 / 20: loss = 0.09870000183582306, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 60: batch 17 / 20: loss = 0.1673000007867813, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 60: batch 18 / 20: loss = 0.15399999916553497, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 60: batch 19 / 20: loss = 0.17339999973773956, accuracy over batch = 0.9688000082969666.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 60: batch 0: loss = 5.834700107574463, accuracy over batch = 0.3280999958515167.
+[Inference] Epoch 60: batch 1: loss = 4.123899936676025, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 60: batch 2: loss = 5.355199813842773, accuracy over batch = 0.375.
+[Inference] Epoch 60: batch 3: loss = 4.3003997802734375, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 60: batch 4: loss = 4.361000061035156, accuracy over batch = 0.34380000829696655.
+
+=====================================  Epoch 61 =====================================
+[Training] Epoch 61: batch 0 / 20: loss = 0.15189999341964722, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 61: batch 1 / 20: loss = 0.10540000349283218, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 61: batch 2 / 20: loss = 0.13510000705718994, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 61: batch 3 / 20: loss = 0.0803999975323677, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 61: batch 4 / 20: loss = 0.1316000074148178, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 61: batch 5 / 20: loss = 0.21940000355243683, accuracy over batch = 0.9375.
+[Training] Epoch 61: batch 6 / 20: loss = 0.1289999932050705, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 61: batch 7 / 20: loss = 0.1006999984383583, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 61: batch 8 / 20: loss = 0.05180000141263008, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 61: batch 9 / 20: loss = 0.10840000212192535, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 61: batch 10 / 20: loss = 0.1031000018119812, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 61: batch 11 / 20: loss = 0.1234000027179718, accuracy over batch = 0.9375.
+[Training] Epoch 61: batch 12 / 20: loss = 0.19380000233650208, accuracy over batch = 0.9218999743461609.
+[Training] Epoch 61: batch 13 / 20: loss = 0.06279999762773514, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 61: batch 14 / 20: loss = 0.03889999911189079, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 61: batch 15 / 20: loss = 0.06030000001192093, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 61: batch 16 / 20: loss = 0.09130000323057175, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 61: batch 17 / 20: loss = 0.04580000042915344, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 61: batch 18 / 20: loss = 0.05050000175833702, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 61: batch 19 / 20: loss = 0.1316000074148178, accuracy over batch = 0.9218999743461609.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 61: batch 0: loss = 5.65339994430542, accuracy over batch = 0.3594000041484833.
+[Inference] Epoch 61: batch 1: loss = 5.30049991607666, accuracy over batch = 0.4375.
+[Inference] Epoch 61: batch 2: loss = 5.387700080871582, accuracy over batch = 0.40619999170303345.
+[Inference] Epoch 61: batch 3: loss = 4.2870001792907715, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 61: batch 4: loss = 5.265999794006348, accuracy over batch = 0.40619999170303345.
+
+=====================================  Epoch 62 =====================================
+[Training] Epoch 62: batch 0 / 20: loss = 0.033900000154972076, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 62: batch 1 / 20: loss = 0.05260000005364418, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 62: batch 2 / 20: loss = 0.047200001776218414, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 62: batch 3 / 20: loss = 0.04010000079870224, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 62: batch 4 / 20: loss = 0.010099999606609344, accuracy over batch = 1.0.
+[Training] Epoch 62: batch 5 / 20: loss = 0.14149999618530273, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 62: batch 6 / 20: loss = 0.14339999854564667, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 62: batch 7 / 20: loss = 0.07859999686479568, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 62: batch 8 / 20: loss = 0.008999999612569809, accuracy over batch = 1.0.
+[Training] Epoch 62: batch 9 / 20: loss = 0.09040000289678574, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 62: batch 10 / 20: loss = 0.008700000122189522, accuracy over batch = 1.0.
+[Training] Epoch 62: batch 11 / 20: loss = 0.05829999968409538, accuracy over batch = 1.0.
+[Training] Epoch 62: batch 12 / 20: loss = 0.06360000371932983, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 62: batch 13 / 20: loss = 0.020400000736117363, accuracy over batch = 1.0.
+[Training] Epoch 62: batch 14 / 20: loss = 0.041999999433755875, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 62: batch 15 / 20: loss = 0.02800000086426735, accuracy over batch = 1.0.
+[Training] Epoch 62: batch 16 / 20: loss = 0.03400000184774399, accuracy over batch = 1.0.
+[Training] Epoch 62: batch 17 / 20: loss = 0.019300000742077827, accuracy over batch = 1.0.
+[Training] Epoch 62: batch 18 / 20: loss = 0.08500000089406967, accuracy over batch = 0.9531000256538391.
+[Training] Epoch 62: batch 19 / 20: loss = 0.021900000050663948, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 62: batch 0: loss = 5.620999813079834, accuracy over batch = 0.3125.
+[Inference] Epoch 62: batch 1: loss = 4.744999885559082, accuracy over batch = 0.4219000041484833.
+[Inference] Epoch 62: batch 2: loss = 5.36870002746582, accuracy over batch = 0.3594000041484833.
+[Inference] Epoch 62: batch 3: loss = 3.756200075149536, accuracy over batch = 0.5156000256538391.
+[Inference] Epoch 62: batch 4: loss = 4.96019983291626, accuracy over batch = 0.375.
+
+=====================================  Epoch 63 =====================================
+[Training] Epoch 63: batch 0 / 20: loss = 0.004699999932199717, accuracy over batch = 1.0.
+[Training] Epoch 63: batch 1 / 20: loss = 0.009999999776482582, accuracy over batch = 1.0.
+[Training] Epoch 63: batch 2 / 20: loss = 0.004699999932199717, accuracy over batch = 1.0.
+[Training] Epoch 63: batch 3 / 20: loss = 0.006599999964237213, accuracy over batch = 1.0.
+[Training] Epoch 63: batch 4 / 20: loss = 0.02319999970495701, accuracy over batch = 1.0.
+[Training] Epoch 63: batch 5 / 20: loss = 0.0027000000700354576, accuracy over batch = 1.0.
+[Training] Epoch 63: batch 6 / 20: loss = 0.004000000189989805, accuracy over batch = 1.0.
+[Training] Epoch 63: batch 7 / 20: loss = 0.023600000888109207, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 63: batch 8 / 20: loss = 0.011099999770522118, accuracy over batch = 1.0.
+[Training] Epoch 63: batch 9 / 20: loss = 0.003599999938160181, accuracy over batch = 1.0.
+[Training] Epoch 63: batch 10 / 20: loss = 0.017999999225139618, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 63: batch 11 / 20: loss = 0.003800000064074993, accuracy over batch = 1.0.
+[Training] Epoch 63: batch 12 / 20: loss = 0.004900000058114529, accuracy over batch = 1.0.
+[Training] Epoch 63: batch 13 / 20: loss = 0.007699999958276749, accuracy over batch = 1.0.
+[Training] Epoch 63: batch 14 / 20: loss = 0.009800000116229057, accuracy over batch = 1.0.
+[Training] Epoch 63: batch 15 / 20: loss = 0.0008999999845400453, accuracy over batch = 1.0.
+[Training] Epoch 63: batch 16 / 20: loss = 0.004999999888241291, accuracy over batch = 1.0.
+[Training] Epoch 63: batch 17 / 20: loss = 0.05130000039935112, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 63: batch 18 / 20: loss = 0.006099999882280827, accuracy over batch = 1.0.
+[Training] Epoch 63: batch 19 / 20: loss = 0.01119999960064888, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 63: batch 0: loss = 7.673500061035156, accuracy over batch = 0.3280999958515167.
+[Inference] Epoch 63: batch 1: loss = 6.2418999671936035, accuracy over batch = 0.4375.
+[Inference] Epoch 63: batch 2: loss = 6.681000232696533, accuracy over batch = 0.40619999170303345.
+[Inference] Epoch 63: batch 3: loss = 5.598299980163574, accuracy over batch = 0.5.
+[Inference] Epoch 63: batch 4: loss = 6.090199947357178, accuracy over batch = 0.40619999170303345.
+
+=====================================  Epoch 64 =====================================
+[Training] Epoch 64: batch 0 / 20: loss = 0.010099999606609344, accuracy over batch = 1.0.
+[Training] Epoch 64: batch 1 / 20: loss = 0.002400000113993883, accuracy over batch = 1.0.
+[Training] Epoch 64: batch 2 / 20: loss = 0.0010000000474974513, accuracy over batch = 1.0.
+[Training] Epoch 64: batch 3 / 20: loss = 0.053300000727176666, accuracy over batch = 0.9688000082969666.
+[Training] Epoch 64: batch 4 / 20: loss = 0.012500000186264515, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 64: batch 5 / 20: loss = 0.00039999998989515007, accuracy over batch = 1.0.
+[Training] Epoch 64: batch 6 / 20: loss = 0.001500000013038516, accuracy over batch = 1.0.
+[Training] Epoch 64: batch 7 / 20: loss = 0.002199999988079071, accuracy over batch = 1.0.
+[Training] Epoch 64: batch 8 / 20: loss = 0.002400000113993883, accuracy over batch = 1.0.
+[Training] Epoch 64: batch 9 / 20: loss = 0.03750000149011612, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 64: batch 10 / 20: loss = 0.0071000000461936, accuracy over batch = 1.0.
+[Training] Epoch 64: batch 11 / 20: loss = 0.003599999938160181, accuracy over batch = 1.0.
+[Training] Epoch 64: batch 12 / 20: loss = 0.006399999838322401, accuracy over batch = 1.0.
+[Training] Epoch 64: batch 13 / 20: loss = 0.004999999888241291, accuracy over batch = 1.0.
+[Training] Epoch 64: batch 14 / 20: loss = 0.0013000000035390258, accuracy over batch = 1.0.
+[Training] Epoch 64: batch 15 / 20: loss = 0.0044999998062849045, accuracy over batch = 1.0.
+[Training] Epoch 64: batch 16 / 20: loss = 0.19349999725818634, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 64: batch 17 / 20: loss = 0.00139999995008111, accuracy over batch = 1.0.
+[Training] Epoch 64: batch 18 / 20: loss = 0.03449999913573265, accuracy over batch = 0.9843999743461609.
+[Training] Epoch 64: batch 19 / 20: loss = 0.009800000116229057, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 64: batch 0: loss = 7.0482001304626465, accuracy over batch = 0.3125.
+[Inference] Epoch 64: batch 1: loss = 5.836100101470947, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 64: batch 2: loss = 6.507500171661377, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 64: batch 3: loss = 5.032199859619141, accuracy over batch = 0.5468999743461609.
+[Inference] Epoch 64: batch 4: loss = 6.068999767303467, accuracy over batch = 0.375.
+
+=====================================  Epoch 65 =====================================
+[Training] Epoch 65: batch 0 / 20: loss = 0.006500000134110451, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 1 / 20: loss = 0.003000000026077032, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 2 / 20: loss = 0.0012000000569969416, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 3 / 20: loss = 0.008700000122189522, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 4 / 20: loss = 0.006500000134110451, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 5 / 20: loss = 0.005900000222027302, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 6 / 20: loss = 0.0035000001080334187, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 7 / 20: loss = 0.004699999932199717, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 8 / 20: loss = 0.0017000000225380063, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 9 / 20: loss = 0.0017000000225380063, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 10 / 20: loss = 0.0010999999940395355, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 11 / 20: loss = 0.003100000089034438, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 12 / 20: loss = 0.00860000029206276, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 13 / 20: loss = 0.0031999999191612005, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 14 / 20: loss = 0.00559999980032444, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 15 / 20: loss = 0.003700000001117587, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 16 / 20: loss = 0.0024999999441206455, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 17 / 20: loss = 0.0017999999690800905, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 18 / 20: loss = 0.004900000058114529, accuracy over batch = 1.0.
+[Training] Epoch 65: batch 19 / 20: loss = 0.0032999999821186066, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 65: batch 0: loss = 7.091100215911865, accuracy over batch = 0.3125.
+[Inference] Epoch 65: batch 1: loss = 6.7846999168396, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 65: batch 2: loss = 7.181300163269043, accuracy over batch = 0.375.
+[Inference] Epoch 65: batch 3: loss = 5.38730001449585, accuracy over batch = 0.4844000041484833.
+[Inference] Epoch 65: batch 4: loss = 6.115300178527832, accuracy over batch = 0.3594000041484833.
+
+=====================================  Epoch 66 =====================================
+[Training] Epoch 66: batch 0 / 20: loss = 0.0015999999595806003, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 1 / 20: loss = 0.0015999999595806003, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 2 / 20: loss = 0.0027000000700354576, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 3 / 20: loss = 0.0010000000474974513, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 4 / 20: loss = 0.0012000000569969416, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 5 / 20: loss = 0.00139999995008111, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 6 / 20: loss = 0.004999999888241291, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 7 / 20: loss = 0.0006000000284984708, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 8 / 20: loss = 0.0008999999845400453, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 9 / 20: loss = 0.00039999998989515007, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 10 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 11 / 20: loss = 0.0006000000284984708, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 12 / 20: loss = 0.0010000000474974513, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 13 / 20: loss = 0.002400000113993883, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 14 / 20: loss = 0.0007999999797903001, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 15 / 20: loss = 0.0007999999797903001, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 16 / 20: loss = 0.0008999999845400453, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 17 / 20: loss = 0.000699999975040555, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 18 / 20: loss = 0.000699999975040555, accuracy over batch = 1.0.
+[Training] Epoch 66: batch 19 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 66: batch 0: loss = 7.656599998474121, accuracy over batch = 0.3280999958515167.
+[Inference] Epoch 66: batch 1: loss = 6.683499813079834, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 66: batch 2: loss = 7.35699987411499, accuracy over batch = 0.4219000041484833.
+[Inference] Epoch 66: batch 3: loss = 5.716700077056885, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 66: batch 4: loss = 6.567500114440918, accuracy over batch = 0.375.
+
+=====================================  Epoch 67 =====================================
+[Training] Epoch 67: batch 0 / 20: loss = 0.00039999998989515007, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 1 / 20: loss = 0.00039999998989515007, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 2 / 20: loss = 0.0003000000142492354, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 3 / 20: loss = 0.002899999963119626, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 4 / 20: loss = 0.0003000000142492354, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 5 / 20: loss = 0.00139999995008111, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 6 / 20: loss = 0.0006000000284984708, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 7 / 20: loss = 0.00039999998989515007, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 8 / 20: loss = 0.0003000000142492354, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 9 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 10 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 11 / 20: loss = 0.0003000000142492354, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 12 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 13 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 14 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 15 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 16 / 20: loss = 0.0003000000142492354, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 17 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 18 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 67: batch 19 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 67: batch 0: loss = 7.641900062561035, accuracy over batch = 0.375.
+[Inference] Epoch 67: batch 1: loss = 7.029600143432617, accuracy over batch = 0.46880000829696655.
+[Inference] Epoch 67: batch 2: loss = 7.453000068664551, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 67: batch 3: loss = 5.847700119018555, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 67: batch 4: loss = 6.761499881744385, accuracy over batch = 0.375.
+
+=====================================  Epoch 68 =====================================
+[Training] Epoch 68: batch 0 / 20: loss = 0.0003000000142492354, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 1 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 2 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 3 / 20: loss = 0.0003000000142492354, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 4 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 5 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 6 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 7 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 8 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 9 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 10 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 11 / 20: loss = 0.0003000000142492354, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 12 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 13 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 14 / 20: loss = 0.0003000000142492354, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 15 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 16 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 17 / 20: loss = 0.0003000000142492354, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 18 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 68: batch 19 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 68: batch 0: loss = 7.762400150299072, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 68: batch 1: loss = 7.131400108337402, accuracy over batch = 0.4375.
+[Inference] Epoch 68: batch 2: loss = 7.528800010681152, accuracy over batch = 0.40619999170303345.
+[Inference] Epoch 68: batch 3: loss = 5.918399810791016, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 68: batch 4: loss = 6.841300010681152, accuracy over batch = 0.375.
+
+=====================================  Epoch 69 =====================================
+[Training] Epoch 69: batch 0 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 1 / 20: loss = 0.0003000000142492354, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 2 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 3 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 4 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 5 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 6 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 7 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 8 / 20: loss = 0.0003000000142492354, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 9 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 10 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 11 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 12 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 13 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 14 / 20: loss = 0.0003000000142492354, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 15 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 16 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 17 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 18 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 69: batch 19 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 69: batch 0: loss = 7.875199794769287, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 69: batch 1: loss = 7.18179988861084, accuracy over batch = 0.4375.
+[Inference] Epoch 69: batch 2: loss = 7.5945000648498535, accuracy over batch = 0.40619999170303345.
+[Inference] Epoch 69: batch 3: loss = 5.963099956512451, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 69: batch 4: loss = 6.896200180053711, accuracy over batch = 0.375.
+
+=====================================  Epoch 70 =====================================
+[Training] Epoch 70: batch 0 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 1 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 2 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 3 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 4 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 5 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 6 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 7 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 8 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 9 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 10 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 11 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 12 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 13 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 14 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 15 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 16 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 17 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 18 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 70: batch 19 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 70: batch 0: loss = 7.962299823760986, accuracy over batch = 0.375.
+[Inference] Epoch 70: batch 1: loss = 7.224100112915039, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 70: batch 2: loss = 7.6529998779296875, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 70: batch 3: loss = 6.0005998611450195, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 70: batch 4: loss = 6.942999839782715, accuracy over batch = 0.375.
+
+=====================================  Epoch 71 =====================================
+[Training] Epoch 71: batch 0 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 1 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 2 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 3 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 4 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 5 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 6 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 7 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 8 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 9 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 10 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 11 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 12 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 13 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 14 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 16 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 17 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 18 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 71: batch 19 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 71: batch 0: loss = 8.033699989318848, accuracy over batch = 0.375.
+[Inference] Epoch 71: batch 1: loss = 7.266600131988525, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 71: batch 2: loss = 7.704800128936768, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 71: batch 3: loss = 6.035699844360352, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 71: batch 4: loss = 6.988399982452393, accuracy over batch = 0.375.
+
+=====================================  Epoch 72 =====================================
+[Training] Epoch 72: batch 0 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 1 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 2 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 3 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 4 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 5 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 6 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 7 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 8 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 9 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 10 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 11 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 12 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 13 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 14 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 15 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 16 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 17 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 18 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 72: batch 19 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 72: batch 0: loss = 8.095999717712402, accuracy over batch = 0.375.
+[Inference] Epoch 72: batch 1: loss = 7.309100151062012, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 72: batch 2: loss = 7.754700183868408, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 72: batch 3: loss = 6.06850004196167, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 72: batch 4: loss = 7.027400016784668, accuracy over batch = 0.375.
+
+=====================================  Epoch 73 =====================================
+[Training] Epoch 73: batch 0 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 1 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 2 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 3 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 4 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 5 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 7 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 8 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 9 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 10 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 11 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 12 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 13 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 14 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 15 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 16 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 18 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 73: batch 19 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 73: batch 0: loss = 8.147700309753418, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 73: batch 1: loss = 7.344399929046631, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 73: batch 2: loss = 7.797299861907959, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 73: batch 3: loss = 6.100200176239014, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 73: batch 4: loss = 7.063000202178955, accuracy over batch = 0.375.
+
+=====================================  Epoch 74 =====================================
+[Training] Epoch 74: batch 0 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 2 / 20: loss = 0.00019999999494757503, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 3 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 5 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 6 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 8 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 9 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 10 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 11 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 13 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 14 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 15 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 16 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 17 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 18 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 74: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 74: batch 0: loss = 8.202099800109863, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 74: batch 1: loss = 7.382900238037109, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 74: batch 2: loss = 7.839000225067139, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 74: batch 3: loss = 6.127099990844727, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 74: batch 4: loss = 7.099999904632568, accuracy over batch = 0.375.
+
+=====================================  Epoch 75 =====================================
+[Training] Epoch 75: batch 0 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 1 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 2 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 3 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 4 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 5 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 6 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 8 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 9 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 10 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 11 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 12 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 13 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 14 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 15 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 16 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 17 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 75: batch 19 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 75: batch 0: loss = 8.25100040435791, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 75: batch 1: loss = 7.423600196838379, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 75: batch 2: loss = 7.877999782562256, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 75: batch 3: loss = 6.156199932098389, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 75: batch 4: loss = 7.1331000328063965, accuracy over batch = 0.375.
+
+=====================================  Epoch 76 =====================================
+[Training] Epoch 76: batch 0 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 1 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 2 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 3 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 4 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 5 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 6 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 7 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 10 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 11 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 12 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 13 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 14 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 15 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 16 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 17 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 18 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 76: batch 19 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 76: batch 0: loss = 8.29640007019043, accuracy over batch = 0.375.
+[Inference] Epoch 76: batch 1: loss = 7.458499908447266, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 76: batch 2: loss = 7.9145002365112305, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 76: batch 3: loss = 6.181399822235107, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 76: batch 4: loss = 7.166200160980225, accuracy over batch = 0.375.
+
+=====================================  Epoch 77 =====================================
+[Training] Epoch 77: batch 0 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 1 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 2 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 3 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 6 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 7 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 8 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 9 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 10 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 11 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 12 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 13 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 14 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 15 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 16 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 17 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 18 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 77: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 77: batch 0: loss = 8.343500137329102, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 77: batch 1: loss = 7.492700099945068, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 77: batch 2: loss = 7.952899932861328, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 77: batch 3: loss = 6.210000038146973, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 77: batch 4: loss = 7.198599815368652, accuracy over batch = 0.375.
+
+=====================================  Epoch 78 =====================================
+[Training] Epoch 78: batch 0 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 1 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 2 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 3 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 4 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 5 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 9 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 10 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 11 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 12 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 13 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 14 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 16 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 17 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 78: batch 19 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 78: batch 0: loss = 8.387399673461914, accuracy over batch = 0.375.
+[Inference] Epoch 78: batch 1: loss = 7.526100158691406, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 78: batch 2: loss = 7.987800121307373, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 78: batch 3: loss = 6.236499786376953, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 78: batch 4: loss = 7.229400157928467, accuracy over batch = 0.375.
+
+=====================================  Epoch 79 =====================================
+[Training] Epoch 79: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 2 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 3 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 5 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 6 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 7 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 8 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 12 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 13 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 14 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 15 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 16 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 18 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 79: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 79: batch 0: loss = 8.427599906921387, accuracy over batch = 0.375.
+[Inference] Epoch 79: batch 1: loss = 7.557000160217285, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 79: batch 2: loss = 8.02180004119873, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 79: batch 3: loss = 6.258500099182129, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 79: batch 4: loss = 7.258800029754639, accuracy over batch = 0.375.
+
+=====================================  Epoch 80 =====================================
+[Training] Epoch 80: batch 0 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 2 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 4 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 6 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 8 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 9 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 13 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 14 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 15 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 18 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 80: batch 19 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 80: batch 0: loss = 8.467100143432617, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 80: batch 1: loss = 7.585400104522705, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 80: batch 2: loss = 8.053199768066406, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 80: batch 3: loss = 6.282299995422363, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 80: batch 4: loss = 7.285799980163574, accuracy over batch = 0.375.
+
+=====================================  Epoch 81 =====================================
+[Training] Epoch 81: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 1 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 2 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 3 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 4 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 8 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 9 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 10 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 12 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 13 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 15 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 16 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 17 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 81: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 81: batch 0: loss = 8.504899978637695, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 81: batch 1: loss = 7.615200042724609, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 81: batch 2: loss = 8.084600448608398, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 81: batch 3: loss = 6.306300163269043, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 81: batch 4: loss = 7.313199996948242, accuracy over batch = 0.375.
+
+=====================================  Epoch 82 =====================================
+[Training] Epoch 82: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 1 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 4 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 7 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 8 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 9 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 11 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 15 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 17 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 18 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 82: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 82: batch 0: loss = 8.540900230407715, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 82: batch 1: loss = 7.645199775695801, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 82: batch 2: loss = 8.115400314331055, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 82: batch 3: loss = 6.326900005340576, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 82: batch 4: loss = 7.340400218963623, accuracy over batch = 0.375.
+
+=====================================  Epoch 83 =====================================
+[Training] Epoch 83: batch 0 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 1 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 3 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 8 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 9 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 11 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 13 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 16 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 83: batch 19 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 83: batch 0: loss = 8.577500343322754, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 83: batch 1: loss = 7.672999858856201, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 83: batch 2: loss = 8.145099639892578, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 83: batch 3: loss = 6.348899841308594, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 83: batch 4: loss = 7.365799903869629, accuracy over batch = 0.375.
+
+=====================================  Epoch 84 =====================================
+[Training] Epoch 84: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 2 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 4 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 8 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 13 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 17 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 84: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 84: batch 0: loss = 8.61050033569336, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 84: batch 1: loss = 7.697199821472168, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 84: batch 2: loss = 8.17389965057373, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 84: batch 3: loss = 6.369500160217285, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 84: batch 4: loss = 7.391600131988525, accuracy over batch = 0.375.
+
+=====================================  Epoch 85 =====================================
+[Training] Epoch 85: batch 0 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 5 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 8 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 9 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 14 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 15 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 85: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 85: batch 0: loss = 8.642999649047852, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 85: batch 1: loss = 7.723899841308594, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 85: batch 2: loss = 8.201000213623047, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 85: batch 3: loss = 6.388199806213379, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 85: batch 4: loss = 7.415999889373779, accuracy over batch = 0.375.
+
+=====================================  Epoch 86 =====================================
+[Training] Epoch 86: batch 0 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 2 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 5 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 8 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 15 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 86: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 86: batch 0: loss = 8.677200317382812, accuracy over batch = 0.375.
+[Inference] Epoch 86: batch 1: loss = 7.747900009155273, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 86: batch 2: loss = 8.229000091552734, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 86: batch 3: loss = 6.408299922943115, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 86: batch 4: loss = 7.440299987792969, accuracy over batch = 0.375.
+
+=====================================  Epoch 87 =====================================
+[Training] Epoch 87: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 6 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 11 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 15 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 87: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 87: batch 0: loss = 8.707200050354004, accuracy over batch = 0.375.
+[Inference] Epoch 87: batch 1: loss = 7.774700164794922, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 87: batch 2: loss = 8.255900382995605, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 87: batch 3: loss = 6.426400184631348, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 87: batch 4: loss = 7.464200019836426, accuracy over batch = 0.375.
+
+=====================================  Epoch 88 =====================================
+[Training] Epoch 88: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 8 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 13 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 18 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 88: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 88: batch 0: loss = 8.736700057983398, accuracy over batch = 0.375.
+[Inference] Epoch 88: batch 1: loss = 7.798799991607666, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 88: batch 2: loss = 8.281700134277344, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 88: batch 3: loss = 6.442599773406982, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 88: batch 4: loss = 7.486800193786621, accuracy over batch = 0.375.
+
+=====================================  Epoch 89 =====================================
+[Training] Epoch 89: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 18 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 89: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 89: batch 0: loss = 8.764800071716309, accuracy over batch = 0.375.
+[Inference] Epoch 89: batch 1: loss = 7.819699764251709, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 89: batch 2: loss = 8.309100151062012, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 89: batch 3: loss = 6.459000110626221, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 89: batch 4: loss = 7.509300231933594, accuracy over batch = 0.375.
+
+=====================================  Epoch 90 =====================================
+[Training] Epoch 90: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 10 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 90: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 90: batch 0: loss = 8.796899795532227, accuracy over batch = 0.375.
+[Inference] Epoch 90: batch 1: loss = 7.843800067901611, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 90: batch 2: loss = 8.334699630737305, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 90: batch 3: loss = 6.4766998291015625, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 90: batch 4: loss = 7.53380012512207, accuracy over batch = 0.375.
+
+=====================================  Epoch 91 =====================================
+[Training] Epoch 91: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 2 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 91: batch 19 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 91: batch 0: loss = 8.823699951171875, accuracy over batch = 0.375.
+[Inference] Epoch 91: batch 1: loss = 7.864099979400635, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 91: batch 2: loss = 8.360300064086914, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 91: batch 3: loss = 6.493100166320801, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 91: batch 4: loss = 7.555200099945068, accuracy over batch = 0.375.
+
+=====================================  Epoch 92 =====================================
+[Training] Epoch 92: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 12 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 14 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 92: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 92: batch 0: loss = 8.851200103759766, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 92: batch 1: loss = 7.885700225830078, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 92: batch 2: loss = 8.384499549865723, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 92: batch 3: loss = 6.508200168609619, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 92: batch 4: loss = 7.576099872589111, accuracy over batch = 0.375.
+
+=====================================  Epoch 93 =====================================
+[Training] Epoch 93: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 4 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 93: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 93: batch 0: loss = 8.88070011138916, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 93: batch 1: loss = 7.907400131225586, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 93: batch 2: loss = 8.411600112915039, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 93: batch 3: loss = 6.522799968719482, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 93: batch 4: loss = 7.59689998626709, accuracy over batch = 0.375.
+
+=====================================  Epoch 94 =====================================
+[Training] Epoch 94: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 94: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 94: batch 0: loss = 8.91409969329834, accuracy over batch = 0.375.
+[Inference] Epoch 94: batch 1: loss = 7.925099849700928, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 94: batch 2: loss = 8.44279956817627, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 94: batch 3: loss = 6.539299964904785, accuracy over batch = 0.5311999917030334.
+[Inference] Epoch 94: batch 4: loss = 7.610499858856201, accuracy over batch = 0.375.
+
+=====================================  Epoch 95 =====================================
+[Training] Epoch 95: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 3 / 20: loss = 9.999999747378752e-05, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 95: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 95: batch 0: loss = 8.953900337219238, accuracy over batch = 0.3594000041484833.
+[Inference] Epoch 95: batch 1: loss = 7.94890022277832, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 95: batch 2: loss = 8.474200248718262, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 95: batch 3: loss = 6.555699825286865, accuracy over batch = 0.5156000256538391.
+[Inference] Epoch 95: batch 4: loss = 7.629799842834473, accuracy over batch = 0.375.
+
+=====================================  Epoch 96 =====================================
+[Training] Epoch 96: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 96: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 96: batch 0: loss = 8.990500450134277, accuracy over batch = 0.3594000041484833.
+[Inference] Epoch 96: batch 1: loss = 7.990499973297119, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 96: batch 2: loss = 8.51140022277832, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 96: batch 3: loss = 6.585599899291992, accuracy over batch = 0.5156000256538391.
+[Inference] Epoch 96: batch 4: loss = 7.650599956512451, accuracy over batch = 0.375.
+
+=====================================  Epoch 97 =====================================
+[Training] Epoch 97: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 97: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 97: batch 0: loss = 9.046899795532227, accuracy over batch = 0.34380000829696655.
+[Inference] Epoch 97: batch 1: loss = 8.03499984741211, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 97: batch 2: loss = 8.557499885559082, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 97: batch 3: loss = 6.632299900054932, accuracy over batch = 0.5156000256538391.
+[Inference] Epoch 97: batch 4: loss = 7.6828999519348145, accuracy over batch = 0.375.
+
+=====================================  Epoch 98 =====================================
+[Training] Epoch 98: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 98: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 98: batch 0: loss = 9.139699935913086, accuracy over batch = 0.34380000829696655.
+[Inference] Epoch 98: batch 1: loss = 8.098199844360352, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 98: batch 2: loss = 8.641300201416016, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 98: batch 3: loss = 6.693299770355225, accuracy over batch = 0.5156000256538391.
+[Inference] Epoch 98: batch 4: loss = 7.740099906921387, accuracy over batch = 0.375.
+
+=====================================  Epoch 99 =====================================
+[Training] Epoch 99: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 99: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 99: batch 0: loss = 9.26200008392334, accuracy over batch = 0.34380000829696655.
+[Inference] Epoch 99: batch 1: loss = 8.172900199890137, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 99: batch 2: loss = 8.732099533081055, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 99: batch 3: loss = 6.783100128173828, accuracy over batch = 0.5.
+[Inference] Epoch 99: batch 4: loss = 7.8256001472473145, accuracy over batch = 0.375.
+
+=====================================  Epoch 100 =====================================
+[Training] Epoch 100: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 100: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 100: batch 0: loss = 9.397299766540527, accuracy over batch = 0.34380000829696655.
+[Inference] Epoch 100: batch 1: loss = 8.256400108337402, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 100: batch 2: loss = 8.837699890136719, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 100: batch 3: loss = 6.890900135040283, accuracy over batch = 0.5.
+[Inference] Epoch 100: batch 4: loss = 7.94950008392334, accuracy over batch = 0.375.
+
+=====================================  Epoch 101 =====================================
+[Training] Epoch 101: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 101: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 101: batch 0: loss = 9.563899993896484, accuracy over batch = 0.34380000829696655.
+[Inference] Epoch 101: batch 1: loss = 8.348299980163574, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 101: batch 2: loss = 8.96310043334961, accuracy over batch = 0.3905999958515167.
+[Inference] Epoch 101: batch 3: loss = 6.985599994659424, accuracy over batch = 0.5.
+[Inference] Epoch 101: batch 4: loss = 8.063400268554688, accuracy over batch = 0.375.
+
+=====================================  Epoch 102 =====================================
+[Training] Epoch 102: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 102: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 102: batch 0: loss = 9.684499740600586, accuracy over batch = 0.3280999958515167.
+[Inference] Epoch 102: batch 1: loss = 8.455699920654297, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 102: batch 2: loss = 9.058899879455566, accuracy over batch = 0.375.
+[Inference] Epoch 102: batch 3: loss = 7.06850004196167, accuracy over batch = 0.5.
+[Inference] Epoch 102: batch 4: loss = 8.171799659729004, accuracy over batch = 0.375.
+
+=====================================  Epoch 103 =====================================
+[Training] Epoch 103: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 103: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 103: batch 0: loss = 9.819000244140625, accuracy over batch = 0.3280999958515167.
+[Inference] Epoch 103: batch 1: loss = 8.54640007019043, accuracy over batch = 0.46880000829696655.
+[Inference] Epoch 103: batch 2: loss = 9.158300399780273, accuracy over batch = 0.375.
+[Inference] Epoch 103: batch 3: loss = 7.168799877166748, accuracy over batch = 0.5.
+[Inference] Epoch 103: batch 4: loss = 8.265800476074219, accuracy over batch = 0.375.
+
+=====================================  Epoch 104 =====================================
+[Training] Epoch 104: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 104: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 104: batch 0: loss = 9.922300338745117, accuracy over batch = 0.3125.
+[Inference] Epoch 104: batch 1: loss = 8.640999794006348, accuracy over batch = 0.4530999958515167.
+[Inference] Epoch 104: batch 2: loss = 9.239800453186035, accuracy over batch = 0.375.
+[Inference] Epoch 104: batch 3: loss = 7.2368998527526855, accuracy over batch = 0.5.
+[Inference] Epoch 104: batch 4: loss = 8.356100082397461, accuracy over batch = 0.375.
+
+=====================================  Epoch 105 =====================================
+[Training] Epoch 105: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 105: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 105: batch 0: loss = 10.00790023803711, accuracy over batch = 0.2969000041484833.
+[Inference] Epoch 105: batch 1: loss = 8.64900016784668, accuracy over batch = 0.46880000829696655.
+[Inference] Epoch 105: batch 2: loss = 9.274900436401367, accuracy over batch = 0.375.
+[Inference] Epoch 105: batch 3: loss = 7.28849983215332, accuracy over batch = 0.5.
+[Inference] Epoch 105: batch 4: loss = 8.40839958190918, accuracy over batch = 0.375.
+
+=====================================  Epoch 106 =====================================
+[Training] Epoch 106: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 106: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 106: batch 0: loss = 10.089799880981445, accuracy over batch = 0.3125.
+[Inference] Epoch 106: batch 1: loss = 8.753499984741211, accuracy over batch = 0.46880000829696655.
+[Inference] Epoch 106: batch 2: loss = 9.342399597167969, accuracy over batch = 0.375.
+[Inference] Epoch 106: batch 3: loss = 7.337399959564209, accuracy over batch = 0.5.
+[Inference] Epoch 106: batch 4: loss = 8.463600158691406, accuracy over batch = 0.375.
+
+=====================================  Epoch 107 =====================================
+[Training] Epoch 107: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 107: batch 19 / 20: loss = 0.0, accuracy over batch = 1.0.
+--------------------------------------------------------------------------------------------------
+[Inference] Epoch 107: batch 0: loss = 10.151000022888184, accuracy over batch = 0.3125.
+[Inference] Epoch 107: batch 1: loss = 8.798299789428711, accuracy over batch = 0.46880000829696655.
+[Inference] Epoch 107: batch 2: loss = 9.39169979095459, accuracy over batch = 0.375.
+[Inference] Epoch 107: batch 3: loss = 7.3850998878479, accuracy over batch = 0.5.
+[Inference] Epoch 107: batch 4: loss = 8.50629997253418, accuracy over batch = 0.3594000041484833.
+
+=====================================  Epoch 108 =====================================
+[Training] Epoch 108: batch 0 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 1 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 2 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 3 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 4 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 5 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 6 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 7 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 8 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 9 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 10 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 11 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 12 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 13 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 14 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 15 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 16 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 17 / 20: loss = 0.0, accuracy over batch = 1.0.
+[Training] Epoch 108: batch 18 / 20: loss = 0.0, accuracy over batch = 1.0.
